@@ -1,5 +1,5 @@
 #
-# Theme     : m3-xx-yyyy.yaml
+# Theme     : m3-04-magenta.yaml
 # Project   : Home Assistant
 # Repository: https://github.com/AmoebeLabs/HA-Theme_M3-07-DarkOliveGreen
 #
@@ -11,12 +11,12 @@
 # Description:
 #   Dark / Light theme based on Material 3 for Home Assistant.
 #
-# According to: https://encycolorpedia.com/526600
-#   - Dark Olive Green
+# According to: https://encycolorpedia.com/9b4058
+#   - Magenta
 #   
 ###############################################################################
 #
-M3-XX-Yyyy:
+M3-04-Magenta:
   # Colors generated via Material Design 3 (Material You) DSP export of figma
   #
   # --------------------------------------------------------------------------
