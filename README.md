@@ -38,22 +38,22 @@ The theme will be automatically available once you have reloaded the themes usin
 ## Theme Preview:
 Below the definition of the theme, generated and displayed using the Swiss Army Knife custom card for Home Assistant (NYR).
 
-![m3-04-palettes](https://github.com/AmoebeLabs/ha-theme_m3-04-magenta/blob/main/preview/m3-theme-04-palettes.png)
+![m3-04-palettes](https://github.com/AmoebeLabs/ha-theme_m3-04-magenta/blob/master/preview/m3-theme-04-palettes.png)
 
-![m3-04-surfaces](https://github.com/AmoebeLabs/ha-theme_m3-04-magenta/blob/main/preview/m3-theme-04-surfaces.png)
+![m3-04-surfaces](https://github.com/AmoebeLabs/ha-theme_m3-04-magenta/blob/master/preview/m3-theme-04-surfaces.png)
 
-![m3-04-light](https://github.com/AmoebeLabs/ha-theme_m3-04-magenta/blob/main/preview/m3-theme-04-light.png)
+![m3-04-light](https://github.com/AmoebeLabs/ha-theme_m3-04-magenta/blob/master/preview/m3-theme-04-light.png)
 
-![m3-04-dark](https://github.com/AmoebeLabs/ha-theme_m3-04-magenta/blob/main/preview/m3-theme-04-dark.png)
+![m3-04-dark](https://github.com/AmoebeLabs/ha-theme_m3-04-magenta/blob/master/preview/m3-theme-04-dark.png)
 
 ## Some real-world screenshots:
 A Light and Dark example made with the Swiss Army Knife custom card.
 
 Note that the card background in the light theme is white instead of the lightest theme background. Will be corrected...
 
-![m3-04-sake12-light](https://github.com/AmoebeLabs/ha-theme_m3-04-magenta/blob/main/screenshots/Mockup%20Home%20Assistant%20-%20Example%2012m3-04-light%20Detail.png)
+![m3-04-sake12-light](https://github.com/AmoebeLabs/ha-theme_m3-04-magenta/blob/master/screenshots/m3-example-04-light.png)
 
-![m3-04-sake12-dark](https://github.com/AmoebeLabs/ha-theme_m3-04-magenta/blob/main/screenshots/Mockup%20Home%20Assistant%20-%20Example%2012m3-04-dark%20Detail.png)
+![m3-04-sake12-dark](https://github.com/AmoebeLabs/ha-theme_m3-04-magenta/blob/master/screenshots/m3-example-04-dark.png)
 
 <!-- Badges -->
 
